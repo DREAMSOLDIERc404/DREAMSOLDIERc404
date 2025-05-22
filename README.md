@@ -26,7 +26,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,javascript,html,gradle,bash,git,arduino,raspberrypi,kali,kotlin" alt="Skills Icon Bar"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,gradle,bash,git,arduino,raspberrypi,kali,kotlin" alt="Skills Icon Bar"/>
 </p>
 
 ---

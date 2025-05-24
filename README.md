@@ -12,11 +12,11 @@
   <tr>
     <td>
       <b>My GitHub Stats</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=DREAMSOLDIERc404&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DREAMSOLDIERc404&show_icons=true&bg_color=00000000" alt="GitHub Stats" height="200"/>
     </td>
     <td>
       <b>Most Used Languages</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DREAMSOLDIERc404&layout=compact&theme=default" alt="Top Languages" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DREAMSOLDIERc404&layout=compact&bg_color=00000000" alt="Top Languages" height="200"/>
     </td>
   </tr>
 </table>
